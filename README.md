@@ -23,7 +23,7 @@ Enjoy
 - Add there new filter file with unique filter - f.e. Reduce Size with good quality.qfilter
 
   `touch ReducedFilter.qfilter`
-  `touch ReallySmall.qfilter`
+  `touch ReallySmallPdf.qfilter`
 
 The file should contain XML with new filter - you can base on the /System/Library/Filters/Reduce.qfilter file.
 
